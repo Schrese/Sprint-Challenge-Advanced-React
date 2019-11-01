@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+.players-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.player-card {
+  background: lightskyblue;
+  padding: 5%;
+  margin: 10px auto;
+  width: 100px;
+}
+
+.orange-toggle {
+  background: white;
+}
+
+.orange {
+  background: orange;
+}
