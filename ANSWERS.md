@@ -1,6 +1,6 @@
 - [ ] Why would you use class component over function components (removing hooks from the question)?
 
-    Because some companies have been using class components for so long, so it is important to learn/understand them
+    Because (possible opinion) they can help pass around a large amount of state, which is why some companies have been using class components for so long, so it is important to learn/understand them. And this might just be an opinion, but it also helps to visualize the react-lifecycle. 
 
 - [ ] Name three lifecycle methods and their purposes.
 

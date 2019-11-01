@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+body {
+  background: white;
+  transition: 2s;
+}
+
+h2 {
+  font-family: 'Jomolhari', serif;
+}
+
+h4 {
+  font-family: 'Jomolhari', serif;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
@@ -51,4 +68,16 @@
 
 .orange {
   background: orange;
+  transition: 2s;
+}
+
+.new {
+  background: salmon;
+}
+
+button {
+  width: 100px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-family: 'Jomolhari', serif;
 }
